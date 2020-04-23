@@ -1,5 +1,5 @@
 {
-    "name": "kiwicommerce/module-admin-activity",
+    "name": "vishalaureate/hello-world",
     "description": "The Admin Activity extension makes it easy to track all admin activity and revert the modification.",
     "type": "magento2-module",
     "version": "1.0.6",
@@ -9,8 +9,8 @@
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Kiwi Commerce Ltd",
-            "email": "hello@kiwicommerce.co.uk",
+            "name": "Vishal",
+            "email": "vishal@kiwicommerce.co.uk",
             "homepage": "https://kiwicommerce.co.uk/",
             "role": "Leader"
         }
